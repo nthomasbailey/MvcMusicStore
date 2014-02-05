@@ -31,8 +31,9 @@ namespace MvcMusicStore
 
         protected void Application_Start()
         {
-            AreaRegistration.RegisterAllAreas();
+            System.Data.Entity.Database.SetInitializer(new MvcMusicStore.Models.SampleData());
 
+            AreaRegistration.RegisterAllAreas();
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
         }

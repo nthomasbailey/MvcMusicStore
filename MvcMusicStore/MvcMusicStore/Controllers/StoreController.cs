@@ -25,8 +25,8 @@ namespace MvcMusicStore.Controllers
         // GET: /Store/Browse?genre=Disco
         public ActionResult Browse(string genre)
         {
-            var genremodel = new Genre { Name = genre };
-            return View(genremodel);
+            var genreModel = new Genre { Name = genre };
+            return View(genreModel);
         }
         //
         // GET: /Store/Details/5

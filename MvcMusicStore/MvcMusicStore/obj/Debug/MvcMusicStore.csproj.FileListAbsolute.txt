@@ -1,0 +1,7 @@
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Luke Skywalker\Documents\Visual Studio 2010\Git Repository\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

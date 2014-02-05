@@ -9,7 +9,7 @@ namespace MvcMusicStore.Controllers
 {
     public class StoreController : Controller
     {
-        MusicStoreEntities storeDB = new MusicStoreEntitiesStoreEntities();
+        MusicStoreEntities storeDB = new MusicStoreEntities();
 
         //
         // GET: /Store/

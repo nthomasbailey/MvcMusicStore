@@ -110,13 +110,13 @@ namespace MvcMusicStore.Models
                               where cartItems.CartId == ShoppingCartId
                               select (int?)cartItems.Count *
                               cartItems.Album.Price).Sum();
-            return total ?? decimal.Zero
+            return total ?? decimal.Zero;
         }
         public int CreateOrder(Order order)
         {
             decimal orderTotal = 0;
 
-            car cartItems = GetCartItems();
+            var cartItems = GetCartItems();
             // Iterate over the items in the cart,
             // adding the order details for each
             foreach (var item in cartItems)

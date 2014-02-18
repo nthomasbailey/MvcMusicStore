@@ -67,6 +67,10 @@ namespace MvcMusicStore.Controllers
 
         //
         // GET: /Account/Register
+        public ActionResult Register()
+        {
+            return View();
+        }
 
         [HttpPost]
         public ActionResult Register(RegisterModel model)
